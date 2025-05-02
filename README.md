@@ -1,4 +1,4 @@
-#   Hi there! I'm Arif Fazal
+#   Hi there! I'm Muhammad Arif Fazal
 
    As an Electronics graduate, I am passionate about integrating hardware with software, particularly using Arduino, ESP modules, and IoT technologies. I am interested to explore my knowledge in Computer Vision and Machine Learning.
    
@@ -9,7 +9,7 @@
 - Arduino, ESP32, ESP8266, 89C51 Microcontroller
 - Sensors (ZEO3-CO, IR, DHT11,CT,etc.)
 - Servos, Relays,etc.
-- C/C++, Python, PHP
+- C++, Python, PHP
 - Git, GitHub, XAMPP, Blynk, and more!
 
     I love learning and sharing knowledge.  
